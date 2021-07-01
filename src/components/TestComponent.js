@@ -1,5 +1,5 @@
 export default function TestComponent(props) {
     return <>
-        hallo
+        hallo wie gehts wie stehts?
         </>
 }
